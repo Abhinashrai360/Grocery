@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://grocery-backend-x4dm.onrender.com/api/:path*"
+        }
+    ]
+}

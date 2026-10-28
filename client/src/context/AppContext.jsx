@@ -5,7 +5,7 @@ import toast from "react-hot-toast";
 
 // Every request talks to our Express API and carries the httpOnly auth cookie
 axios.defaults.withCredentials = true;
-axios.defaults.baseURL = import.meta.env.VITE_BACKEND_URL || "http://localhost:5000";
+axios.defaults.baseURL = import.meta.env.VITE_BACKEND_URL || "";
 
 const MAX_QTY = 99;
 
