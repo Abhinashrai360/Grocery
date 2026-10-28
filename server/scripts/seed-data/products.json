@@ -1,0 +1,534 @@
+[
+  {
+    "name": "Potato 500g",
+    "category": "Vegetables",
+    "price": 25,
+    "offerPrice": 20,
+    "description": [
+      "Fresh and organic",
+      "Rich in carbohydrates",
+      "Ideal for curries and fries"
+    ],
+    "image": [
+      "potato_image_1.png",
+      "potato_image_2.png",
+      "potato_image_3.png",
+      "potato_image_4.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Tomato 1 kg",
+    "category": "Vegetables",
+    "price": 40,
+    "offerPrice": 35,
+    "description": [
+      "Juicy and ripe",
+      "Rich in Vitamin C",
+      "Perfect for salads and sauces",
+      "Farm fresh quality"
+    ],
+    "image": [
+      "tomato_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Carrot 500g",
+    "category": "Vegetables",
+    "price": 30,
+    "offerPrice": 28,
+    "description": [
+      "Sweet and crunchy",
+      "Good for eyesight",
+      "Ideal for juices and salads"
+    ],
+    "image": [
+      "carrot_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Spinach 500g",
+    "category": "Vegetables",
+    "price": 18,
+    "offerPrice": 15,
+    "description": [
+      "Rich in iron",
+      "High in vitamins",
+      "Perfect for soups and salads"
+    ],
+    "image": [
+      "spinach_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Onion 500g",
+    "category": "Vegetables",
+    "price": 22,
+    "offerPrice": 19,
+    "description": [
+      "Fresh and pungent",
+      "Perfect for cooking",
+      "A kitchen staple"
+    ],
+    "image": [
+      "onion_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Apple 1 kg",
+    "category": "Fruits",
+    "price": 120,
+    "offerPrice": 110,
+    "description": [
+      "Crisp and juicy",
+      "Rich in fiber",
+      "Boosts immunity",
+      "Perfect for snacking and desserts",
+      "Organic and farm fresh"
+    ],
+    "image": [
+      "apple_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Orange 1 kg",
+    "category": "Fruits",
+    "price": 80,
+    "offerPrice": 75,
+    "description": [
+      "Juicy and sweet",
+      "Rich in Vitamin C",
+      "Perfect for juices and salads"
+    ],
+    "image": [
+      "orange_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Banana 1 kg",
+    "category": "Fruits",
+    "price": 50,
+    "offerPrice": 45,
+    "description": [
+      "Sweet and ripe",
+      "High in potassium",
+      "Great for smoothies and snacking"
+    ],
+    "image": [
+      "banana_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Mango 1 kg",
+    "category": "Fruits",
+    "price": 150,
+    "offerPrice": 140,
+    "description": [
+      "Sweet and flavorful",
+      "Perfect for smoothies and desserts",
+      "Rich in Vitamin A"
+    ],
+    "image": [
+      "mango_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Grapes 500g",
+    "category": "Fruits",
+    "price": 70,
+    "offerPrice": 65,
+    "description": [
+      "Fresh and juicy",
+      "Rich in antioxidants",
+      "Perfect for snacking and fruit salads"
+    ],
+    "image": [
+      "grapes_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Amul Milk 1L",
+    "category": "Dairy",
+    "price": 60,
+    "offerPrice": 55,
+    "description": [
+      "Pure and fresh",
+      "Rich in calcium",
+      "Ideal for tea, coffee, and desserts",
+      "Trusted brand quality"
+    ],
+    "image": [
+      "amul_milk_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Paneer 200g",
+    "category": "Dairy",
+    "price": 90,
+    "offerPrice": 85,
+    "description": [
+      "Soft and fresh",
+      "Rich in protein",
+      "Ideal for curries and snacks"
+    ],
+    "image": [
+      "paneer_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Eggs 12 pcs",
+    "category": "Dairy",
+    "price": 90,
+    "offerPrice": 85,
+    "description": [
+      "Farm fresh",
+      "Rich in protein",
+      "Ideal for breakfast and baking"
+    ],
+    "image": [
+      "eggs_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Paneer 200g",
+    "category": "Dairy",
+    "price": 90,
+    "offerPrice": 85,
+    "description": [
+      "Soft and fresh",
+      "Rich in protein",
+      "Ideal for curries and snacks"
+    ],
+    "image": [
+      "paneer_image_2.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Cheese 200g",
+    "category": "Dairy",
+    "price": 140,
+    "offerPrice": 130,
+    "description": [
+      "Creamy and delicious",
+      "Perfect for pizzas and sandwiches",
+      "Rich in calcium"
+    ],
+    "image": [
+      "cheese_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Coca-Cola 1.5L",
+    "category": "Drinks",
+    "price": 80,
+    "offerPrice": 75,
+    "description": [
+      "Refreshing and fizzy",
+      "Perfect for parties and gatherings",
+      "Best served chilled"
+    ],
+    "image": [
+      "coca_cola_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Pepsi 1.5L",
+    "category": "Drinks",
+    "price": 78,
+    "offerPrice": 73,
+    "description": [
+      "Chilled and refreshing",
+      "Perfect for celebrations",
+      "Best served cold"
+    ],
+    "image": [
+      "pepsi_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Sprite 1.5L",
+    "category": "Drinks",
+    "price": 79,
+    "offerPrice": 74,
+    "description": [
+      "Refreshing citrus taste",
+      "Perfect for hot days",
+      "Best served chilled"
+    ],
+    "image": [
+      "sprite_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Fanta 1.5L",
+    "category": "Drinks",
+    "price": 77,
+    "offerPrice": 72,
+    "description": [
+      "Sweet and fizzy",
+      "Great for parties and gatherings",
+      "Best served cold"
+    ],
+    "image": [
+      "fanta_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "7 Up 1.5L",
+    "category": "Drinks",
+    "price": 76,
+    "offerPrice": 71,
+    "description": [
+      "Refreshing lemon-lime flavor",
+      "Perfect for refreshing",
+      "Best served chilled"
+    ],
+    "image": [
+      "seven_up_image_1.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Basmati Rice 5kg",
+    "category": "Grains",
+    "price": 550,
+    "offerPrice": 520,
+    "description": [
+      "Long grain and aromatic",
+      "Perfect for biryani and pulao",
+      "Premium quality"
+    ],
+    "image": [
+      "basmati_rice_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Wheat Flour 5kg",
+    "category": "Grains",
+    "price": 250,
+    "offerPrice": 230,
+    "description": [
+      "High-quality whole wheat",
+      "Soft and fluffy rotis",
+      "Rich in nutrients"
+    ],
+    "image": [
+      "wheat_flour_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Organic Quinoa 500g",
+    "category": "Grains",
+    "price": 450,
+    "offerPrice": 420,
+    "description": [
+      "High in protein and fiber",
+      "Gluten-free",
+      "Rich in vitamins and minerals"
+    ],
+    "image": [
+      "quinoa_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Brown Rice 1kg",
+    "category": "Grains",
+    "price": 120,
+    "offerPrice": 110,
+    "description": [
+      "Whole grain and nutritious",
+      "Helps in weight management",
+      "Good source of magnesium"
+    ],
+    "image": [
+      "brown_rice_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Barley 1kg",
+    "category": "Grains",
+    "price": 150,
+    "offerPrice": 140,
+    "description": [
+      "Rich in fiber",
+      "Helps improve digestion",
+      "Low in fat and cholesterol"
+    ],
+    "image": [
+      "barley_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Brown Bread 400g",
+    "category": "Bakery",
+    "price": 40,
+    "offerPrice": 35,
+    "description": [
+      "Soft and healthy",
+      "Made from whole wheat",
+      "Ideal for breakfast and sandwiches"
+    ],
+    "image": [
+      "brown_bread_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Butter Croissant 100g",
+    "category": "Bakery",
+    "price": 50,
+    "offerPrice": 45,
+    "description": [
+      "Flaky and buttery",
+      "Freshly baked",
+      "Perfect for breakfast or snacks"
+    ],
+    "image": [
+      "butter_croissant_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Chocolate Cake 500g",
+    "category": "Bakery",
+    "price": 350,
+    "offerPrice": 325,
+    "description": [
+      "Rich and moist",
+      "Made with premium cocoa",
+      "Ideal for celebrations and parties"
+    ],
+    "image": [
+      "chocolate_cake_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Whole Bread 400g",
+    "category": "Bakery",
+    "price": 45,
+    "offerPrice": 40,
+    "description": [
+      "Healthy and nutritious",
+      "Made with whole wheat flour",
+      "Ideal for sandwiches and toast"
+    ],
+    "image": [
+      "whole_wheat_bread_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Vanilla Muffins 6 pcs",
+    "category": "Bakery",
+    "price": 100,
+    "offerPrice": 90,
+    "description": [
+      "Soft and fluffy",
+      "Perfect for a quick snack",
+      "Made with real vanilla"
+    ],
+    "image": [
+      "vanilla_muffins_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Maggi Noodles 280g",
+    "category": "Instant",
+    "price": 55,
+    "offerPrice": 50,
+    "description": [
+      "Instant and easy to cook",
+      "Delicious taste",
+      "Popular among kids and adults"
+    ],
+    "image": [
+      "maggi_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Top Ramen 270g",
+    "category": "Instant",
+    "price": 45,
+    "offerPrice": 40,
+    "description": [
+      "Quick and easy to prepare",
+      "Spicy and flavorful",
+      "Loved by college students and families"
+    ],
+    "image": [
+      "top_ramen_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Knorr Cup Soup 70g",
+    "category": "Instant",
+    "price": 35,
+    "offerPrice": 30,
+    "description": [
+      "Convenient for on-the-go",
+      "Healthy and nutritious",
+      "Variety of flavors"
+    ],
+    "image": [
+      "knorr_soup_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Yippee Noodles 260g",
+    "category": "Instant",
+    "price": 50,
+    "offerPrice": 45,
+    "description": [
+      "Non-fried noodles for healthier choice",
+      "Tasty and filling",
+      "Convenient for busy schedules"
+    ],
+    "image": [
+      "yippee_image.png"
+    ],
+    "inStock": true
+  },
+  {
+    "name": "Oats Noodles 72g",
+    "category": "Instant",
+    "price": 40,
+    "offerPrice": 35,
+    "description": [
+      "Healthy alternative with oats",
+      "Good for digestion",
+      "Perfect for breakfast or snacks"
+    ],
+    "image": [
+      "maggi_oats_image.png"
+    ],
+    "inStock": true
+  }
+]
